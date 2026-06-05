@@ -80,10 +80,8 @@ belirlenmiştir.
 
 #  🚀 Sonuçlar
 
-Bu çalışmada kullanıcı yorumları ile teknik özellikler birlikte değerlendirilerek web madenciliği tabanlı bir karar      destek sistemi geliştirilmiştir. Yapılan duygu analizi sayesinde müşteri memnuniyeti incelenmiş, korelasyon analizi ile
-değişkenler arasındaki ilişkiler ortaya çıkarılmıştır. K-Means algoritması kullanılarak laptoplar benzer özelliklerine
-göre kümelendirilmiş ve kullanıcılar için ürün önerileri oluşturulmuştur. Bu proje, web madenciliği yöntemlerinin
-e-ticaret verileri üzerinde karar verme süreçlerini desteklemede etkili bir şekilde kullanılabileceğini göstermektedir.
+Bu çalışmada Hepsiburada platformundan elde edilen yaklaşık 300 laptop ürünü ve 2914 kullanıcı yorumu kullanılarak web madenciliği tabanlı bir karar destek sistemi geliştirilmiştir. Yapılan duygu analizi sonucunda kullanıcı yorumlarının büyük çoğunluğunun olumlu olduğu gözlemlenmiştir. Kullanıcı memnuniyeti ile ürün puanları arasında anlamlı ilişkiler tespit edilmiştir. Korelasyon analizi sayesinde teknik özellikler, fiyat, kullanıcı puanı ve memnuniyet göstergeleri arasındaki ilişkiler incelenmiştir. K-Means kümeleme algoritması kullanılarak ürünler benzer özelliklerine göre gruplandırılmış ve ekonomik ürünler, fiyat-performans ürünleri, premium ürünler ve riskli ürünler gibi anlamlı segmentler elde edilmiştir.
+Geliştirilen karar destek sistemi sayesinde kullanıcılar için en iyi ürünler, fiyat-performans açısından avantajlı ürünler ve düşük riskli ürünler belirlenmiştir. Elde edilen sonuçlar, kullanıcı yorumları ile teknik özelliklerin birlikte değerlendirilmesinin ürün seçimi sürecinde faydalı bilgiler sağlayabildiğini ve web madenciliği yöntemlerinin karar verme süreçlerini desteklemede etkili bir şekilde kullanılabileceğini göstermektedir.
 
 # 📂 Proje Yapısı
 
